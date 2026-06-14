@@ -72,7 +72,7 @@ Hi 👋, I'm **Hashwanth Ghanta**, an **M.Sc. Digital Engineering** student at *
 
 <br>
 
-<!-- ====================== TROPHIES ====================== -->
+<!-- ====================== TROPHIES (disabled: github-profile-trophy public instance returns HTTP 402 / over quota) ======================
 ## 🏆 Trophies
 
 <div align="center">
@@ -82,6 +82,7 @@ Hi 👋, I'm **Hashwanth Ghanta**, an **M.Sc. Digital Engineering** student at *
 </div>
 
 <br>
+-->
 
 <!-- ====================== CONTRIBUTION SNAKE ====================== -->
 ## 🐍 Contribution Graph
