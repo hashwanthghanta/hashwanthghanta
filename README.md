@@ -1,7 +1,7 @@
-<!-- ====================== ANIMATED HEADER ====================== -->
+<!-- ====================== HEADER ====================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Hashwanth%20Ghanta&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Digital%20Engineering%20%E2%80%A2%20Unity%20%26%20C%23%20%E2%80%A2%203D%20Simulation&descSize=16&descAlignY=60" alt="Hashwanth Ghanta — Digital Engineering, Unity and C#, 3D Simulation" width="100%" />
+# Hi, I'm Hashwanth Ghanta 👋
 
 <!-- ====================== TYPING ANIMATION ====================== -->
 <a href="https://github.com/hashwanthghanta">
@@ -106,4 +106,9 @@ Hi 👋, I'm **Hashwanth Ghanta**, an **M.Sc. Digital Engineering** student at *
 -->
 
 <!-- ====================== FOOTER ====================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" alt="" width="100%" />
+<div align="center">
+
+---
+*Built with ❤️ by Hashwanth Ghanta*
+
+</div>
