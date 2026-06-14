@@ -1,7 +1,7 @@
 <!-- ====================== ANIMATED HEADER ====================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hashwanth%20Ghanta&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Digital%20Engineering%20%E2%80%A2%20Unity%20%26%20C%23%20%E2%80%A2%203D%20Simulation&descSize=18&descAlignY=58" alt="Hashwanth Ghanta — Digital Engineering, Unity and C#, 3D Simulation" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Hashwanth%20Ghanta&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Digital%20Engineering%20%E2%80%A2%20Unity%20%26%20C%23%20%E2%80%A2%203D%20Simulation&descSize=16&descAlignY=60" alt="Hashwanth Ghanta — Digital Engineering, Unity and C#, 3D Simulation" width="100%" />
 
 <!-- ====================== TYPING ANIMATION ====================== -->
 <a href="https://github.com/hashwanthghanta">
@@ -84,24 +84,26 @@ Hi 👋, I'm **Hashwanth Ghanta**, an **M.Sc. Digital Engineering** student at *
 <br>
 -->
 
-<!-- ====================== CONTRIBUTION SNAKE ====================== -->
-## 🐍 Contribution Graph
+<!-- ====================== CONTRIBUTION ACTIVITY ====================== -->
+## 📈 Contribution Activity
 
 <div align="center">
 
-<!-- SNAKE: uncomment after the "Generate Snake Animation" Action has run once and created the output branch
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hashwanthghanta&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Hashwanth's contribution activity graph over time" width="100%" />
+
+</div>
+
+<!-- SNAKE: enable after running "Generate Snake Animation" Action (needs workflow scope on gh token)
+## 🐍 Contribution Snake
+
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hashwanthghanta/hashwanthghanta/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hashwanthghanta/hashwanthghanta/output/github-contribution-grid-snake.svg" />
   <img src="https://raw.githubusercontent.com/hashwanthghanta/hashwanthghanta/output/github-contribution-grid-snake.svg" alt="Snake eating Hashwanth's GitHub contribution squares" />
 </picture>
--->
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hashwanthghanta&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Hashwanth's contribution activity graph over time" width="100%" />
-
 </div>
+-->
 
 <!-- ====================== FOOTER ====================== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" alt="" width="100%" />
